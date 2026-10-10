@@ -6,5 +6,5 @@ Para comprobar que la opción de Productos & Servicios está disponible
 
 Scenario: Cargar la página principal de Banistmo
 Given que el usuario accede al sitio web de Banistmo
-When entra a la pestaña de Empresas
+When entra a la opcion de Empresas
 Then se debe mostrar la opción de Productos & Servicios
